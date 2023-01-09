@@ -21,7 +21,7 @@ timezone:
 
 title: Yiğit Küçük                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Computer Engineering Student at Bilkent University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -42,11 +42,11 @@ social:
   email: yigitkucukbusiness@gmail.com        # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # https://twitter.com/username      # change to your twitter homepage
     - https://github.com/yigitkucuk       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/yigit-kucuk/?locale=en_US
 
 google_site_verification:               # fill in to your verification string
 
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://avatars.githubusercontent.com/u/91060732?s=400&u=1bc59c1362830ecb71e18f8ea9530ebb065573c0&v=4'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
