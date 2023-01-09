@@ -25,7 +25,8 @@ In conclusion, acceleration disregards for privacy and freedom of individuals by
 always ask for proper explanations whenever exposed to new, uncomprehended technologies. Acceleration, in nature, is too fast. If humanity does not pay attention to it now, there will be no time to do so in the future.
 
 
-Works Cited
+
+### Works Cited
 
 Deleuze, Gilles. “Postscript on the Societies of Control.” October, vol. 59, The MIT Press, 1992, pp. 3–7, JSTOR, http://www.jstor.org/stable/778828.
 
