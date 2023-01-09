@@ -308,3 +308,15 @@ thus the execution times are affected. In either case, we can test these algorit
 observations over and over again to avoid sampling bias and get the most accurate results. The computer
 specifications hold a great importance, however in this case the CPU and the RAM usage were limited by the
 IDE, so we would get similar results with a slightly weaker computer.
+
+
+### Computer Specifications
+
+CPU:
+AMD Ryzen 7 4800H with Radeon Graphics, 2.9 GHz Base Clock, 8 CPU Cores, 16 Threads
+
+RAM:
+16.0 GB Total, Dual Channel, (2 x Samsung 8 GB 3200 MHz DDR4 RAM)
+
+Operating System:
+Windows 11, Version 22H2
