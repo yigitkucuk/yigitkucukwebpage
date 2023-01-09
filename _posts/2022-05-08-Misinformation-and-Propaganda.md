@@ -59,8 +59,72 @@ Suppose mainstream social media corporations continue allowing disinformation an
 Moreover, we should be careful not to spread misinformation. We should not share, distribute or repost information without checking its validity. We must not follow opinion leaders or advocacy groups blindly. We must question their intentions before supporting them. This way, we can create our defensive mechanisms against the rising misinformation and propaganda campaigns without relying on big corporations and their algorithms to protect us.
 
 
+### Bibliography
 
-### Footnotes 
+Swift, Art, “Americans’ Trust in Mass Media Sinks to New Low,” Gallup, 14 September 2016, http://news.gallup.com/poll/195542/americans-trust-mass-media-sinks-new- low.aspx.
+
+Bossetta, Michael. “The Weaponization of Social Media: Spear Pishing and Cyberattacks on Democracy.” Journal of International Affairs 71, no. 1.5 (2018): 97–106. https://www.jstor.org/stable/26508123.
+
+
+Bradshaw, Samantha, and Philip N. Howard. “The Global Organization of Social Media Disinformation Campaigns.” Journal of International Affairs 71, no. 1.5 (2018): 23–32. https://www.jstor.org/stable/26508115.
+
+
+“Complete List of Subreddits.” frontpagemetrics. Accessed May 8, 2022. https://frontpagemetrics.com/list-all-subreddits.
+
+Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi. “The Spreading of Misinformation Online.” Proceedings of the National Academy of Sciences of the United States of America 113, no. 3 (2016): 554–59. https://www.jstor.org/stable/26467425.
+
+
+Dubois, Elizabeth, Sara Minaeian, Ariane Paquet-Labelle, and Simon Beaudry. “Who to Trust on Social Media: How Opinion Leaders and Seekers Avoid Disinformation and Echo Chambers.” Social Media + Society, no 3 (2020): 1–13. https://doi.org/10.1177/2056305120913993.
+
+
+Fakhreddin, Farbod, and Pantea Foroudi. “Instagram Influencers: The Role of Opinion Leadership in Consumers’ Purchase Behavior.” Journal of Promotion Management, December 6, 2021, 1–31. doi:10.1080/10496491.2021.2015515.
+
+
+Fuchs, Christian. “Propaganda 2.0: Herman and Chomsky’s Propaganda Model in the Age of the Internet, Big Data and Social Media.” In The Propaganda Model Today: Filtering Perception and Awareness, edited by Joan Pedro-Carañana, Daniel Broudy, and Jeffery
+ 
+Klaehn, 8:71–92. University of Westminster Press, 2018. http://www.jstor.org/stable/j.ctv7h0ts6.8.
+
+
+Herman, Edward S., and Noam Chomsky. Manufacturing Consent : The Political Economy of the Mass Media. 1st ed. Pantheon Books, 1988. https://search.ebscohost.com/ login.aspx? direct=true&db=cat00040a&AN=bilk.220692&site=eds-live.
+
+
+Jegham, Salma, and Rym Bouzaabia. “Fashion Influencers on Instagram: Determinants and Impact of Opinion Leadership on Female Millennial Followers.” Journal of Consumer Behaviour 21, no 2 (2022): 1–16. doi:10.1002/cb.2050.
+
+
+Johan Farkas. “Disguised Propaganda from Digital to Social Media.” In Second International	
+ 	Handbook of Internet Research, 1–17. Springer, 2018. https://doi.org/10.1007/978-94-024-
+
+
+Jonathan A. Obar, Paul Zube, and Clifford Lampe. “Advocacy 2.0: An Analysis of How Advocacy Groups in the United States Perceive and Use Social Media as Tools for Facilitating Civic Engagement and Collective Action.” Journal of Information Policy 2, no 2. (2012): 1–25. https://doi.org/10.5325/jinfopoli.2.2012.0001.
+
+
+Kapitan, Sommer, and David H. Silvera. “From Digital Media Influencers to Celebrity Endorsers: Attributions Drive Endorser Effectiveness.” Marketing Letters 27, no. 3 (2016): 553–67. http://www.jstor.org/stable/26179958.
+
+
+Kitchens, Brent, Steven L. Johnson, and Peter Gray. “Understanding Echo Chambers and Filter Bubbles: The Impact of Social Media on Diversification and Partisan Shifts in News Consumption.” MIS Quarterly 44, no. 4 (December 2020): 1619–49. doi:10.25300/MISQ/2020/16371.
+
+
+Kotler, Philip, and Gerald Zaltman. “Social Marketing: An Approach to Planned Social Change.”
+Journal of Marketing 35, no. 3 (1971): 3–12. https://doi.org/10.2307/1249783.
+
+
+Leber, Andrew, and Alexei Abrahams. “A Storm of Tweets: Social Media Manipulation During the Gulf Crisis.” Review of Middle East Studies 53, no. 2 (2019): 241–58. https://doi.org/doi:10.1017/rms.2019.45.
+ 
+Moravec, Patricia L., Randall K. Minas, and Alan R. Dennis. “Fake News on Social Media: People Believe What They Want to Believe When It Makes No Sense at All.” MIS Quarterly 43, no. 4 (December 2019): 1343–60. doi:10.25300/MISQ/2019/15505.
+
+
+Prier, Jarred. “Commanding the Trend: Social Media as Information Warfare.” Strategic Studies Quarterly 11, no. 4 (2017): 50–85. http://www.jstor.org/stable/26271634.
+
+
+Roese, Vivian. “You Won’t Believe How Co-Dependent They Are: Or: Media Hype and the Interaction of News Media, Social Media, and the User.” In From Media Hype to Twitter Storm, edited by Peter Vasterman, 313–32. Amsterdam University Press, 2018. https://doi.org/10.2307/j.ctt21215m0.19.
+
+
+Rogers, Richard, and Sabine Niederer. “The Politics of Social Media Manipulation.” In The Politics of Social Media Manipulation, 19–70. Amsterdam University Press, 2020.
+https://doi.org/10.2307/j.ctv1b0fvs5.3.
+
+
+Sabry, Tarik. “The Propaganda Model after 20 Years: Interview with Edward S. Herman and Noam Chomsky.” Westminster Papers in Communication and Culture 6, no. 2 (June 1, 2017). doi:10.16997/wpcc.121.
+
 
 [^1]:	Jarred Prier. “Commanding the Trend: Social Media as Information Warfare.” Strategic Studies Quarterly 11, no. 4 (2017): 68. http://www.jstor.org/stable/26271634.
 
@@ -167,73 +231,3 @@ https://frontpagemetrics.com/list-all-subreddits.
 [^51]:	Sommer Kapitan and David H. Silvera, 554.
 
 [^52]:	Salma Jegham and Rym Bouzaabia, 5.
-
-
-
-### Bibliography
-
-Swift, Art, “Americans’ Trust in Mass Media Sinks to New Low,” Gallup, 14 September 2016, http://news.gallup.com/poll/195542/americans-trust-mass-media-sinks-new- low.aspx.
-
-Bossetta, Michael. “The Weaponization of Social Media: Spear Pishing and Cyberattacks on Democracy.” Journal of International Affairs 71, no. 1.5 (2018): 97–106. https://www.jstor.org/stable/26508123.
-
-
-Bradshaw, Samantha, and Philip N. Howard. “The Global Organization of Social Media Disinformation Campaigns.” Journal of International Affairs 71, no. 1.5 (2018): 23–32. https://www.jstor.org/stable/26508115.
-
-
-“Complete List of Subreddits.” frontpagemetrics. Accessed May 8, 2022. https://frontpagemetrics.com/list-all-subreddits.
-
-Del Vicario, Michela, Alessandro Bessi, Fabiana Zollo, Fabio Petroni, Antonio Scala, Guido Caldarelli, H. Eugene Stanley, and Walter Quattrociocchi. “The Spreading of Misinformation Online.” Proceedings of the National Academy of Sciences of the United States of America 113, no. 3 (2016): 554–59. https://www.jstor.org/stable/26467425.
-
-
-Dubois, Elizabeth, Sara Minaeian, Ariane Paquet-Labelle, and Simon Beaudry. “Who to Trust on Social Media: How Opinion Leaders and Seekers Avoid Disinformation and Echo Chambers.” Social Media + Society, no 3 (2020): 1–13. https://doi.org/10.1177/2056305120913993.
-
-
-Fakhreddin, Farbod, and Pantea Foroudi. “Instagram Influencers: The Role of Opinion Leadership in Consumers’ Purchase Behavior.” Journal of Promotion Management, December 6, 2021, 1–31. doi:10.1080/10496491.2021.2015515.
-
-
-Fuchs, Christian. “Propaganda 2.0: Herman and Chomsky’s Propaganda Model in the Age of the Internet, Big Data and Social Media.” In The Propaganda Model Today: Filtering Perception and Awareness, edited by Joan Pedro-Carañana, Daniel Broudy, and Jeffery
- 
-Klaehn, 8:71–92. University of Westminster Press, 2018. http://www.jstor.org/stable/j.ctv7h0ts6.8.
-
-
-Herman, Edward S., and Noam Chomsky. Manufacturing Consent : The Political Economy of the Mass Media. 1st ed. Pantheon Books, 1988. https://search.ebscohost.com/ login.aspx? direct=true&db=cat00040a&AN=bilk.220692&site=eds-live.
-
-
-Jegham, Salma, and Rym Bouzaabia. “Fashion Influencers on Instagram: Determinants and Impact of Opinion Leadership on Female Millennial Followers.” Journal of Consumer Behaviour 21, no 2 (2022): 1–16. doi:10.1002/cb.2050.
-
-
-Johan Farkas. “Disguised Propaganda from Digital to Social Media.” In Second International	
- 	Handbook of Internet Research, 1–17. Springer, 2018. https://doi.org/10.1007/978-94-024-
-
-
-Jonathan A. Obar, Paul Zube, and Clifford Lampe. “Advocacy 2.0: An Analysis of How Advocacy Groups in the United States Perceive and Use Social Media as Tools for Facilitating Civic Engagement and Collective Action.” Journal of Information Policy 2, no 2. (2012): 1–25. https://doi.org/10.5325/jinfopoli.2.2012.0001.
-
-
-Kapitan, Sommer, and David H. Silvera. “From Digital Media Influencers to Celebrity Endorsers: Attributions Drive Endorser Effectiveness.” Marketing Letters 27, no. 3 (2016): 553–67. http://www.jstor.org/stable/26179958.
-
-
-Kitchens, Brent, Steven L. Johnson, and Peter Gray. “Understanding Echo Chambers and Filter Bubbles: The Impact of Social Media on Diversification and Partisan Shifts in News Consumption.” MIS Quarterly 44, no. 4 (December 2020): 1619–49. doi:10.25300/MISQ/2020/16371.
-
-
-Kotler, Philip, and Gerald Zaltman. “Social Marketing: An Approach to Planned Social Change.”
-Journal of Marketing 35, no. 3 (1971): 3–12. https://doi.org/10.2307/1249783.
-
-
-Leber, Andrew, and Alexei Abrahams. “A Storm of Tweets: Social Media Manipulation During the Gulf Crisis.” Review of Middle East Studies 53, no. 2 (2019): 241–58. https://doi.org/doi:10.1017/rms.2019.45.
- 
-Moravec, Patricia L., Randall K. Minas, and Alan R. Dennis. “Fake News on Social Media: People Believe What They Want to Believe When It Makes No Sense at All.” MIS Quarterly 43, no. 4 (December 2019): 1343–60. doi:10.25300/MISQ/2019/15505.
-
-
-Prier, Jarred. “Commanding the Trend: Social Media as Information Warfare.” Strategic Studies Quarterly 11, no. 4 (2017): 50–85. http://www.jstor.org/stable/26271634.
-
-
-Roese, Vivian. “You Won’t Believe How Co-Dependent They Are: Or: Media Hype and the Interaction of News Media, Social Media, and the User.” In From Media Hype to Twitter Storm, edited by Peter Vasterman, 313–32. Amsterdam University Press, 2018. https://doi.org/10.2307/j.ctt21215m0.19.
-
-
-Rogers, Richard, and Sabine Niederer. “The Politics of Social Media Manipulation.” In The Politics of Social Media Manipulation, 19–70. Amsterdam University Press, 2020.
-https://doi.org/10.2307/j.ctv1b0fvs5.3.
-
-
-Sabry, Tarik. “The Propaganda Model after 20 Years: Interview with Edward S. Herman and Noam Chomsky.” Westminster Papers in Communication and Culture 6, no. 2 (June 1, 2017). doi:10.16997/wpcc.121.
-
-
