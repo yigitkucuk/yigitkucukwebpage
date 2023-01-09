@@ -7,7 +7,7 @@ tags: [Multiculturalism]
 render_with_liquid: false
 ---
 
-## Multiculturalism - A Way t o Achieve Unity Within t he Society
+## Multiculturalism - A Way to Achieve Unity Within the Society
 
 Multiculturalism is the view that racial, cultural, ethnic, sexual, and religious minority groups should be given special recognition to preserve their existence.
 Debates on multiculturalism started in the early 80s. These debates were mostly on whether the school curriculum should be changed in a way that recognizes the achievements of the socially marginalized groups. As of the start of the 90s, with the widening human rights and more effective communication technologies; excluded
