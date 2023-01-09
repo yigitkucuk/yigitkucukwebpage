@@ -1,7 +1,7 @@
 ---
 title: Multiculturalism - A Way to Achieve Unity Within the Society
 author: Yiğit Küçük
-date: 2022-11-04 14:10:00 +0800
+date: 2021-11-04 14:10:00 +0800
 categories: [English Essay, Academic]
 tags: [Multiculturalism]
 render_with_liquid: false
