@@ -62,111 +62,111 @@ Moreover, we should be careful not to spread misinformation. We should not share
 
 ### Footnotes 
 
-[^1]	Jarred Prier. “Commanding the Trend: Social Media as Information Warfare.” Strategic Studies Quarterly 11, no. 4 (2017): 68. http://www.jstor.org/stable/26271634.
+[^1]:	Jarred Prier. “Commanding the Trend: Social Media as Information Warfare.” Strategic Studies Quarterly 11, no. 4 (2017): 68. http://www.jstor.org/stable/26271634.
 
-[^2]	Patricia L. Moravec, Randall K. Minas and Alan R. Dennis. “Fake News on Social Media: People Believe What They Want to Believe When It Makes No Sense at All.” MIS Quarterly 43, no. 4 (December 2019): 1345. doi:10.25300/MISQ/2019/15505.
+[^2]:	Patricia L. Moravec, Randall K. Minas and Alan R. Dennis. “Fake News on Social Media: People Believe What They Want to Believe When It Makes No Sense at All.” MIS Quarterly 43, no. 4 (December 2019): 1345. doi:10.25300/MISQ/2019/15505.
 
-[^3]	Samantha Bradshaw and Philip N. Howard. “The Global Organization of Social Media Disinformation Campaigns.” Journal of International Affairs 71, no. 1.5 (2018): 23. https://www.jstor.org/stable/26508115.
+[^3]:	Samantha Bradshaw and Philip N. Howard. “The Global Organization of Social Media Disinformation Campaigns.” Journal of International Affairs 71, no. 1.5 (2018): 23. https://www.jstor.org/stable/26508115.
 
-[^4] Prier, 70–73.
+[^4]: Prier, 70–73.
 
-[^5]	Vivian Roese. “You Won’t Believe How Co-Dependent They Are: Or: Media Hype and the Interaction of News Media, Social Media, and the User.” In From Media Hype to Twitter Storm, ed. by Peter Vasterman (Amsterdam University Press, 2018), 327–328. https://doi.org/10.2307/j.ctt21215m0.19.
+[^5]:	Vivian Roese. “You Won’t Believe How Co-Dependent They Are: Or: Media Hype and the Interaction of News Media, Social Media, and the User.” In From Media Hype to Twitter Storm, ed. by Peter Vasterman (Amsterdam University Press, 2018), 327–328. https://doi.org/10.2307/j.ctt21215m0.19.
 
-[^6]	Leber, Andrew and Alexei Abrahams. “A Storm of Tweets: Social Media Manipulation During the Gulf Crisis.” Review of Middle East Studies 53, no. 2 (2019): 246. doi:10.1017/rms.2019.45.
+[^6]:	Leber, Andrew and Alexei Abrahams. “A Storm of Tweets: Social Media Manipulation During the Gulf Crisis.” Review of Middle East Studies 53, no. 2 (2019): 246. doi:10.1017/rms.2019.45.
 
-[^7]	 Johan Farkas. “Disguised Propaganda from Digital to Social Media.” In Second International 
+[^7]:	 Johan Farkas. “Disguised Propaganda from Digital to Social Media.” In Second International 
  Handbook of Internet Research. (Springer, 2018), 6. https://doi.org/10.1007/978-94-024-1202- 4_33-1.
 
-[^8]	Art Swift, “Americans’ Trust in Mass Media Sinks to New Low,” Gallup, 14 September 2016, http://news.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx.
+[^8]:	Art Swift, “Americans’ Trust in Mass Media Sinks to New Low,” Gallup, 14 September 2016, http://news.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx.
 
-[^9]	Prier, 60.
+[^9]:	Prier, 60.
 
-[^10]	Brent Kitchens, Steven L. Johnson and Peter Gray. “Understanding Echo Chambers and Filter Bubbles: The Impact of Social Media on Diversification and Partisan Shifts in News Consumption.” MIS Quarterly 44, no. 4 (December 2020): 1621. doi:10.25300/MISQ/2020/16371.
+[^10]:	Brent Kitchens, Steven L. Johnson and Peter Gray. “Understanding Echo Chambers and Filter Bubbles: The Impact of Social Media on Diversification and Partisan Shifts in News Consumption.” MIS Quarterly 44, no. 4 (December 2020): 1621. doi:10.25300/MISQ/2020/16371.
 
-[^11]	Farbod Fakhreddin, and Pantea Foroudi. “Instagram Influencers: The Role of Opinion Leadership in Consumers’ Purchase Behavior.” Journal of Promotion Management, no 3 (2021): 5. doi:10.1080/10496491.2021.2015515.
+[^11]:	Farbod Fakhreddin, and Pantea Foroudi. “Instagram Influencers: The Role of Opinion Leadership in Consumers’ Purchase Behavior.” Journal of Promotion Management, no 3 (2021): 5. doi:10.1080/10496491.2021.2015515.
 
-[^12]	Christian Fuchs. “Propaganda 2.0: Herman and Chomsky’s Propaganda Model in the Age of the Internet, Big Data and Social Media.” In The Propaganda Model Today: Filtering Perception and Awareness, (University of Westminster Press, 2018), 71–92. http://www.jstor.org/stable/j.ctv7h0ts6.8
+[^12]:	Christian Fuchs. “Propaganda 2.0: Herman and Chomsky’s Propaganda Model in the Age of the Internet, Big Data and Social Media.” In The Propaganda Model Today: Filtering Perception and Awareness, (University of Westminster Press, 2018), 71–92. http://www.jstor.org/stable/j.ctv7h0ts6.8
 
-[^13]	Tarik Sabry. “The Propaganda Model after 20 Years: Interview with Edward S. Herman and Noam Chomsky.” Westminster Papers in Communication and Culture 6, no. 2 (June 1, 2017): 15. doi:10.16997/wpcc.121.
+[^13]:	Tarik Sabry. “The Propaganda Model after 20 Years: Interview with Edward S. Herman and Noam Chomsky.” Westminster Papers in Communication and Culture 6, no. 2 (June 1, 2017): 15. doi:10.16997/wpcc.121.
 
-[^14] Fuchs, 71–72.
+[^14]: Fuchs, 71–72.
 
-[^15]	Fuchs, 72.
+[^15]:	Fuchs, 72.
 
-[^16]	Fuchs, 74.
+[^16]:	Fuchs, 74.
 
-[^17]	Fuchs, 73.
+[^17]:	Fuchs, 73.
 
-[^18]	Fuchs, 76.
+[^18]:	Fuchs, 76.
 
-[^19]	Fuchs, 73.
+[^19]:	Fuchs, 73.
 
-[^20]	Fuchs, 78.
+[^20]:	Fuchs, 78.
 
-[^21]	Fuchs, 78.
+[^21]:	Fuchs, 78.
 
-[^22]	Sabry, 14.
+[^22]:	Sabry, 14.
 
-[^23]	Fuchs, 81.
+[^23]:	Fuchs, 81.
 
-[^24]	Fuchs, 72.
+[^24]:	Fuchs, 72.
 
-[^25]	Fuchs, 84.
+[^25]:	Fuchs, 84.
 
-[^26]	Prier, 52.
+[^26]:	Prier, 52.
 
-[^27]	Prier, 52.
+[^27]:	Prier, 52.
 
-[^28]	Prier, 52.
+[^28]:	Prier, 52.
 
-[^29] Prier, 68–69.
+[^29]: Prier, 68–69.
 
-[^30]	Samantha Bradshaw and Philip N. Howard, 24.
+[^30]:	Samantha Bradshaw and Philip N. Howard, 24.
 
-[^31]	Prier, 60.
+[^31]:	Prier, 60.
 
-[^32]	Michael Bossetta. “The Weaponization of Social Media: Spear Phishing and Cyberattacks on Democracy.” Journal of International Affairs 71, no. 1.5 (2018): 102. https://www.jstor.org/stable/26508123.
+[^32]:	Michael Bossetta. “The Weaponization of Social Media: Spear Phishing and Cyberattacks on Democracy.” Journal of International Affairs 71, no. 1.5 (2018): 102. https://www.jstor.org/stable/26508123.
 
-[^33]	Elizabeth Dubois, Sara Minaeian, Ariane Paquet-Labelle and Simon Beaudry. “Who to Trust on Social Media: How Opinion Leaders and Seekers Avoid Disinformation and Echo Chambers.” Social Media + Society, no. 3 (2020): 3, https://doi.org/10.1177/2056305120913993.
+[^33]:	Elizabeth Dubois, Sara Minaeian, Ariane Paquet-Labelle and Simon Beaudry. “Who to Trust on Social Media: How Opinion Leaders and Seekers Avoid Disinformation and Echo Chambers.” Social Media + Society, no. 3 (2020): 3, https://doi.org/10.1177/2056305120913993.
 
-[^34]	Del Vicario et al. “The Spreading of Misinformation Online.” Proceedings of the National Academy of Sciences of the United States of America 113, no. 3 (2016): 554. https://www.jstor.org/stable/26467425.
+[^34]:	Del Vicario et al. “The Spreading of Misinformation Online.” Proceedings of the National Academy of Sciences of the United States of America 113, no. 3 (2016): 554. https://www.jstor.org/stable/26467425.
 
-[^35]	“Complete List of Subreddits.” frontpagemetrics. Accessed May 8, 2022.
+[^35]:	“Complete List of Subreddits.” frontpagemetrics. Accessed May 8, 2022.
 https://frontpagemetrics.com/list-all-subreddits.
 
-[^36]	Vivian Roese, 327.
+[^36]:	Vivian Roese, 327.
 
-[^37]	Dubois et al. 4.
+[^37]:	Dubois et al. 4.
 
-[^38]	Richard Rogers and Sabine Niederer, 42.
+[^38]:	Richard Rogers and Sabine Niederer, 42.
 
-[^39]	Christian Fuchs, 73.
+[^39]:	Christian Fuchs, 73.
 
-[^40]	Dubois et al. 8–9.
+[^40]:	Dubois et al. 8–9.
 
-[^41]	Dubois et al. 1.
+[^41]:	Dubois et al. 1.
 
-[^42]	Patricia L. Moravec, Randall K. Minas and Alan R. Dennis, 1350.
+[^42]:	Patricia L. Moravec, Randall K. Minas and Alan R. Dennis, 1350.
 
-[^43]	Dubois et al. 8.
+[^43]:	Dubois et al. 8.
 
-[^44]	Fuchs, 73.
+[^44]:	Fuchs, 73.
 
-[^45]	Fuchs, 75.
+[^45]:	Fuchs, 75.
 
-[^46]	Fuchs, 81.
+[^46]:	Fuchs, 81.
 
-[^47]	Fuchs, 71.
+[^47]:	Fuchs, 71.
 
-[^48]	Fuchs, 74.
+[^48]:	Fuchs, 74.
 
-[^49]	Sommer Kapitan and David H. Silvera. “From Digital Media Influencers to Celebrity Endorsers: Attributions Drive Endorser Effectiveness.” Marketing Letters 27, no. 3 (2016): 554. http://www.jstor.org/stable/26179958.
+[^49]:	Sommer Kapitan and David H. Silvera. “From Digital Media Influencers to Celebrity Endorsers: Attributions Drive Endorser Effectiveness.” Marketing Letters 27, no. 3 (2016): 554. http://www.jstor.org/stable/26179958.
 
-[^50]	Salma Jegham and Rym Bouzaabia. “Fashion Influencers on Instagram: Determinants and Impact of Opinion Leadership on Female Millennial Followers.” Journal of Consumer Behaviour 21, no 2 (2022): 6. doi:10.1002/cb.2050.
+[^50]:	Salma Jegham and Rym Bouzaabia. “Fashion Influencers on Instagram: Determinants and Impact of Opinion Leadership on Female Millennial Followers.” Journal of Consumer Behaviour 21, no 2 (2022): 6. doi:10.1002/cb.2050.
 
-[^51]	Sommer Kapitan and David H. Silvera, 554.
+[^51]:	Sommer Kapitan and David H. Silvera, 554.
 
-[^52]	Salma Jegham and Rym Bouzaabia, 5.
+[^52]:	Salma Jegham and Rym Bouzaabia, 5.
 
 
 
