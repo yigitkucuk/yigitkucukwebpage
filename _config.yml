@@ -21,7 +21,7 @@ timezone:
 
 title: Yiğit Küçük                         # the main title
 
-tagline: Computer Engineering Student at Bilkent University   # it will display as the sub-title
+tagline: Computer Engineering Student in Bilkent University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
