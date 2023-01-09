@@ -23,3 +23,22 @@ algorithmically modulated bots, machine learning, and computer-generated arts (3
 
 In conclusion, acceleration disregards for privacy and freedom of individuals by providing constant control mechanisms, triggers the growth of the Anthropocene by feeding capitalism with more tools to monetize and overproduce, and it rapidly removes the distinctions between the man and the machine, creating a uniform future where there is little room for human involvement. Thus, acceleration and its products' premise is nothing but a dystopian future. Acceleration will cause energy and resource shortages, and its products will be responsible for the Orwellian future that is being prepared for modern societies. Humankind should be aware of the upcoming threats of capitalism and accelerationism and
 always ask for proper explanations whenever exposed to new, uncomprehended technologies. Acceleration, in nature, is too fast. If humanity does not pay attention to it now, there will be no time to do so in the future.
+
+
+Works Cited
+
+Deleuze, Gilles. “Postscript on the Societies of Control.” October, vol. 59, The MIT Press, 1992, pp. 3–7, JSTOR, http://www.jstor.org/stable/778828.
+
+Gardiner, M. E. “Automatic for the People? Cybernetics and Left-Accelerationism.” Constellations. 6 Aug. 2020, Wiley Online Library, https://doi.org/10.1111/1467-8675.12528.
+
+Jonsson, Fredrik Albritton. “Anthropocene Blues: Abundance, Energy, Limits.” RCC Perspectives, no. 2, Rachel Carson Center, 2015, pp. 55–64, JSTOR, http://www.jstor.org/stable/26241317.
+
+Land, Nick. “A Quick-and-Dirty Introduction to Accelerationism." Jacobite, 2017, jacobitemag.com/2017/05/25/a-quick-and-dirty-introduction-to-accelerationism/.
+
+Marx, Karl. “Estranged Labour.” Economic and Philosophic Manuscripts of 1844, translated by Martin Milligan, Progress Publishers, 1959, pp. 28–35. marxists.org, https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm.
+
+Williams, Alex, and Nick Srnicek. "Manifesto for an Accelerationist
+
+Politics," Multitudes, translated by Yves Citton, vol. 56, no. 1, 2014, pp. 23-35,
+
+Cairn.info, https://www.cairn-int.info/journal-multitudes-2014-1-page-23.htm.
