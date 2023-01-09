@@ -1,7 +1,7 @@
 ---
 title: An Analysis of Median Finding Algorithms
 author: Yiğit Küçük
-date: 2022-03-23 14:10:00 +0800
+date: 2022-11-23 14:10:00 +0800
 categories: [Computer Science, Academic]
 tags: [Algorithms Analysis]
 render_with_liquid: false
