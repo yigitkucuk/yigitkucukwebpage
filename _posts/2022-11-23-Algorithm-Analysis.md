@@ -42,7 +42,7 @@ So, for the first algorithm, time complexities are:
 | O( 𝑛^2 ) | O( 𝑛^2 ) |
 
 The code for the first algorithm can be seen below:
-```
+```cpp
 int FIND_MEDIAN_1( int input[], const int n) {
     int maxIndex, maxValue;
     int count = 0;
@@ -62,7 +62,7 @@ int FIND_MEDIAN_1( int input[], const int n) {
 }
 ```
 
-```
+```cpp
 void swap( int &n1, int &n2 ) {
     int temp = n1;
     n1 = n2;
@@ -89,11 +89,15 @@ function was called on will go through the for loop, and this for loop will iter
 size of the array. In the for loop, there will be a constant number of operations, say C.
 
 T( n ) = T ( n - 1 ) + ( C * n )
+
 T( n ) = T ( n - 2 ) + ( C * n ) + ( C * (n - 1) )
+
 T( n ) = T ( n - 3 ) + ( C * n ) + ( C * (n - 1) ) + ( C * (n - 2) )
 …
 T( n ) = T( 1 ) + ( C * n ) + ( C * (n - 1) ) + … + ( C * 2 )
+
 T( n ) = T( 0 ) + ( C * n ) + ( C * (n - 1) ) + … + ( C * 2 ) + ( C * 1 )
+
 Then, T( n ) = C [ ( n ) + ( n - 1 ) + … + 1 ] = C * [ (( n ) * ( n + 1)) / 2 ] = C/2 * [ 𝑛^2 + n]
 
 As we can see here, the time complexity is in the order of 𝑛 . So, the Big-Oh notation for the worst case of the 2
@@ -105,10 +109,13 @@ the for loop, and this for loop will iterate for n’ times, where n’ is the s
 be a constant number of operations, say C.
 
 T( n ) = T( n / 2 ) + ( C * n )
+
 T( n ) = T( n / 4 ) + ( C * n ) + ( C * (n / 2) )
+
 T( n ) = T( n / 8 ) + ( C * n ) + ( C * (n / 2) ) + ( C * (n / 4) )
 …
 T( n ) = T( 0 ) + ( C * n ) + ( C * (n / 2) ) + ( C * (n / 4) ) + … + ( C * 1 )
+
 Then, T( n ) = ( C * n ) + ( C * (n / 2) ) + ( C * (n / 4) ) + … + ( C * 1 )
 
 As we can see here, we will call the function 𝑙𝑜𝑔 𝑛 times, and at each call, the for loop will iterate in the order
@@ -122,14 +129,14 @@ So, for the second algorithm, time complexities are:
 
 The code for the second algorithm can be seen below:
 
-```
+```cpp
 int FIND_MEDIAN_2(int input[], const int n) {
     randomizedQuickSort(input, 0, n - 1 );
     return input[(n-1)/2];
 }
 ```
 
-```
+```cpp
 void randomizedQuickSort(int input[], int p, int r) {
     int q;
     if( p < r ) {
@@ -140,7 +147,7 @@ void randomizedQuickSort(int input[], int p, int r) {
 }
 ```
 
-```
+```cpp
 void swap( int &n1, int &n2 ) {
     int temp = n1;
     n1 = n2;
@@ -148,7 +155,7 @@ void swap( int &n1, int &n2 ) {
 }
 ```
 
-```
+```cpp
 int randomizedPartition( int input[], int p, int r ) {
     int index = rand() % (r-p+1) + p;
     swap(input[index], input[r]);
@@ -210,13 +217,13 @@ So, for the third algorithm, time complexity is:
 
 The code for the third algorithm can be seen below:
 
-```
+```cpp
 int FIND_MEDIAN_3( int input[], const int n) {
     return select(input, n, (n+1)/2, 0, n - 1, 0 );
 }
 ```
 
-```
+```cpp
 int select( int input[], int n, int k, int start, int end, int flag ) {
     if( n <= 5 ) {
         quickSort( input, start, end );
