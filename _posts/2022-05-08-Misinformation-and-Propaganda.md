@@ -126,6 +126,8 @@ https://doi.org/10.2307/j.ctv1b0fvs5.3.
 Sabry, Tarik. “The Propaganda Model after 20 Years: Interview with Edward S. Herman and Noam Chomsky.” Westminster Papers in Communication and Culture 6, no. 2 (June 1, 2017). doi:10.16997/wpcc.121.
 
 
+### Footnotes
+
 [^1]:	Jarred Prier. “Commanding the Trend: Social Media as Information Warfare.” Strategic Studies Quarterly 11, no. 4 (2017): 68. http://www.jstor.org/stable/26271634.
 
 [^2]:	Patricia L. Moravec, Randall K. Minas and Alan R. Dennis. “Fake News on Social Media: People Believe What They Want to Believe When It Makes No Sense at All.” MIS Quarterly 43, no. 4 (December 2019): 1345. doi:10.25300/MISQ/2019/15505.
@@ -138,8 +140,7 @@ Sabry, Tarik. “The Propaganda Model after 20 Years: Interview with Edward S. H
 
 [^6]:	Leber, Andrew and Alexei Abrahams. “A Storm of Tweets: Social Media Manipulation During the Gulf Crisis.” Review of Middle East Studies 53, no. 2 (2019): 246. doi:10.1017/rms.2019.45.
 
-[^7]:	 Johan Farkas. “Disguised Propaganda from Digital to Social Media.” In Second International 
- Handbook of Internet Research. (Springer, 2018), 6. https://doi.org/10.1007/978-94-024-1202- 4_33-1.
+[^7]:	 Johan Farkas. “Disguised Propaganda from Digital to Social Media.” In Second International Handbook of Internet Research. (Springer, 2018), 6. https://doi.org/10.1007/978-94-024-1202- 4_33-1.
 
 [^8]:	Art Swift, “Americans’ Trust in Mass Media Sinks to New Low,” Gallup, 14 September 2016, http://news.gallup.com/poll/195542/americans-trust-mass-media-sinks-new-low.aspx.
 
