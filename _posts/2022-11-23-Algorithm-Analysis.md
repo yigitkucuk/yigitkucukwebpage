@@ -9,7 +9,7 @@ render_with_liquid: false
 
 ## An Analysis of Median Finding Algorithms
 
-![Algorithm Analysis](images/algorithms_1.png)
+![Algorithm Analysis](algorithms_1.png)
 
 ![Algorithm Analysis](images/algorithms_2.png)
 
