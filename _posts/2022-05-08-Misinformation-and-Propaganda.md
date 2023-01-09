@@ -7,7 +7,7 @@ tags: [Social Media, Propaganda]
 render_with_liquid: false
 ---
 
-### Social Media’s Impact on Misinformation, Manipulation, and Propaganda Campaigns
+## Social Media’s Impact on Misinformation, Manipulation, and Propaganda Campaigns
 
 In the era of Web 2.0 of the internet, it is evident that the user is the creator and the consumer of the media. This internet property encouraged a participation culture, resulting in the creation of content and distribution of information more expeditious than ever. The more information the social media platform contains, the harder it is for the owners to keep track of cases of disinformation and propaganda. Indeed, social media companies rely on algorithms to keep their platforms safe from these harmful effects, but these algorithms are shown to be manipulated easily.[^1] Social media platforms prefer not to fix those problems to profit more, or they cannot fix them, as there have been attempts from social media platforms such as Facebook to reduce fake news, but then revoked for unknown reasons.[^2] Social media platforms serve as a container for misinformation[^3], propaganda[^4], echo chambers[^5], and manipulation[^6]. As consequences of misinformation on social media are less than in traditional media, opinion leaders utilize social
 media to spread their propaganda.[^7] Salting the wound from the conventional media days, people start to lose their trust in specific legitimate sources on social media[^8] and lean towards more isolated sources and choose to trust them.[^9] So they are pushed to become close-minded to others groups' ideas and follow like-minded people, trapping them in an echo chamber with the help of algorithmic filtering.[^10]
