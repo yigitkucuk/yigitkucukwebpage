@@ -24,16 +24,14 @@ title: Yiğit Küçük                         # the main title
 tagline: Computer Engineering Student in Bilkent University   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  My personal website where I share my academic essays, research papers and non-academic writings 
+  on topics related to computer science, computer engineering, and social sciences.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://yigitkucuk.com'
 
 github:
   username: yigitkucuk             # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
