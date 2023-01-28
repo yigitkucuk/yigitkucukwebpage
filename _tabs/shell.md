@@ -1,5 +1,5 @@
 ---
-icon: fa-regular fa-terminal
+icon: fa-solid fa-file
 order: 4
 target: https://shell.yigitkucuk.com
 ---
