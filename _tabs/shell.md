@@ -1,7 +1,7 @@
 ---
 icon: fa-regular fa-terminal
 order: 4
-target: shell.yigitkucuk.com
+target: https://shell.yigitkucuk.com
 ---
 
 Not updated yet!
